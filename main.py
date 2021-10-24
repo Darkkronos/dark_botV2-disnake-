@@ -23,6 +23,7 @@ for filename in os.listdir('./cogs'):
 
 for backups in os.listdir('./backups'):
   print(f'Backup: {backups}')
+  print("development ver.")
 
 
 
